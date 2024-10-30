@@ -10,7 +10,7 @@ CountryWise is an AI-powered chatbot that provides real-time information about c
 
 ## Demo
 
-![CountryWise Chatbot](screenshot.png) <!-- Optional: Add a screenshot of the chatbot UI -->
+![CountryWise Chatbot](src\ScreenShot.png)
 
 ## Getting Started
 

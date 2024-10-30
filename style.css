@@ -166,11 +166,11 @@ body {
 }
 
 .send-icon {
-    background-image: url('send-icon.png');
+    background-image: url('src/send-icon.png');
 }
 
 .voice-icon {
-    background-image: url('voice-icon.png');
+    background-image: url('src/voice-icon.png');
 }
 
 .send-icon:hover,
